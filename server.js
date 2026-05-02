@@ -10,7 +10,7 @@ const app = express();
 
 // ✅ CORS (allow all for now, restrict later)
 app.use(cors({
-  origin: "https://miniminds-sandy.vercel.app",
+  origin: "https://miniminds-8l3lv01zw-sanduvithanas-projects.vercel.app/",
   credentials: true
 }));
 
